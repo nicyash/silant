@@ -1,0 +1,110 @@
+
+@font-face {
+    src: url('../styles/fonts/PT-Astra-Sans_Bold-Italic.ttf');
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+span {
+    margin: 5px;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+    color: #163E6C;
+}
+
+.btn-primary {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    margin-right: 10px;
+    padding: 2px;
+    border-radius: 5px;
+    color: #163E6C;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+}
+
+.static_line {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.header_text {
+    margin: 5px;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+    color: #163E6C;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+
+}
+
+.linkss {
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    color: #163E6C;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+
+}
+
+.links_1 {
+    display: flex;
+    justify-content: flex-end;
+    color: #163E6C;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+
+}
+
+.Logo {
+    padding-left: 1px;
+    padding-top: 1px;
+}
+
+.contact_info {
+    padding-left: 1px;
+    padding-top: 1px;
+    display: flex;
+}
+
+.Logo_header {
+    width: 200px;
+    height: 100px;
+    padding-left: 1px;
+    padding-top: 1px;
+    left: 0;
+}
+
+.user_info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttonLogout{
+    display: flex;
+    justify-content: center;
+}
+
+.Logout{
+    font-weight: bold;
+    font-size: large;
+    margin: 5px;
+    border-radius: 5px;
+    color: #EBE6D6;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+    background-color: #163E6C;
+    border: 1px;
+}

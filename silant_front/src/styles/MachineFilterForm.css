@@ -1,0 +1,25 @@
+@font-face {
+    src: url('../styles/fonts/PT-Astra-Sans_Bold-Italic.ttf');
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+}
+
+span{
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+    margin: 5px;
+    color: #163E6C;
+    display: flex;
+    justify-content: center;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+}
+

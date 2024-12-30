@@ -1,0 +1,44 @@
+@font-face {
+    src: url('../styles/fonts/PT-Astra-Sans_Bold-Italic.ttf');
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+}
+
+.Profile{
+    display: flex;
+    justify-content: center;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+    flex-direction: column;
+}
+
+.loginForm{
+    margin: 50px;
+    display: flex;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.inputSearch{
+    font-weight: bold;
+    font-size: large;
+    margin: 5px;
+    border-radius: 5px;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+    border-color: #163E6C;
+    width: 215px;
+}
+
+.buttonEnter{
+    font-weight: bold;
+    font-size: large;
+    margin: 5px;
+    border-radius: 5px;
+    color: #EBE6D6;
+    font-family: "PT-Astra-Sans_Bold-Italicr";
+    background-color: #163E6C;
+    border: 1px;
+}
+
